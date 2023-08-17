@@ -1,4 +1,4 @@
-![image](https://github.com/Asilsathik/Find-the-best-fit-line-using-Least-Squares-Method/assets/119476247/79b9166d-4056-4da3-9806-39e34d658008)# Implementation of Univariate Linear Regression
+
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -50,7 +50,6 @@ plt.show()
 
 
 ## Output:
-![best fit line](sam.png)
 ![Screenshot 2023-08-17 095109](https://github.com/Asilsathik/Find-the-best-fit-line-using-Least-Squares-Method/assets/119476247/3adb7970-d399-4567-a1a1-cb935f422e3a)
 
 
